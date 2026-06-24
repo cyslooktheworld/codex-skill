@@ -2,7 +2,7 @@
 
 name: academic-paper-translator
 description: Translate academic papers, PDFs, LaTeX, Markdown, abstracts, methods, experiments, related work, and technical literature into accurate Chinese, then export the translated result as Word DOCX and PDF while preserving structure, terminology, equations, citations, figures, and tables.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # Academic Paper Translator
 
